@@ -11,7 +11,7 @@
         <sections>
             <section id="general">
                 <items>
-                    <item id="message">
+                    <item id="amount">
                         <name>Amount for free shipping</name>
                         <type>input</type>
                         <default_value></default_value>
