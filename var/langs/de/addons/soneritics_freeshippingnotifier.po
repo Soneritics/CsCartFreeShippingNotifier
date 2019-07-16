@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Project-Id-Version: addon\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2019-07-16 21:00+0200\n"
+
+msgctxt "Addons::name::soneritics_freeshippingnotifier"
+msgid "Soneritics Free Shipping Notifier"
+msgstr "Soneritics Free Shipping Notifier"
+
+msgctxt "Addons::description::soneritics_freeshippingnotifier"
+msgid "Notifications to the customer on how much more to spend before getting free shipping"
+msgstr "Notifications to the customer on how much more to spend before getting free shipping"
+
+msgctxt "Languages::addons.soneritics_freeshippingnotifier.message"
+msgid "%s left for FREE SHIPPING"
+msgstr "%s left for FREE SHIPPING"
