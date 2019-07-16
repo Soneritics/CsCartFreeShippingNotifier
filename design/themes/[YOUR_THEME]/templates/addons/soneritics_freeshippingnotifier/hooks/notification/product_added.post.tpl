@@ -1,4 +1,4 @@
-{assign var="amount_till_free_shipping" value=fn_soneritics_freeshippingnotifier_get_amount($smarty.session.cart.subtotal, $smarty.session.cart.shipping_cost)}
+{assign var="amount_till_free_shipping" value=fn_soneritics_freeshippingnotifier_get_amount($smarty.session.cart.subtotal)}
 
 {if $amount_till_free_shipping > 0}
     {capture name="amount_till_free_shipping_formatted"}
